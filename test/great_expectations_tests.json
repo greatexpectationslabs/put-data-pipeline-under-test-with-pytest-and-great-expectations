@@ -1,0 +1,9 @@
+{
+  "test_cases" : [
+    {
+      "title": "GE testcase 1",
+      "input_file_path": "input_datasets/test_input_1.csv",
+      "expectations_config_path": "expectations_configs/expectations_config_1.json"
+    }
+    ]
+}

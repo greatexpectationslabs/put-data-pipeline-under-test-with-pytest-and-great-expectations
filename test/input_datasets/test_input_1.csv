@@ -1,0 +1,842 @@
+RecordID,Specialty,Category,Degree,Gender
+1,Dermatology,,M.D.,F
+2,"Dermatology, Pediatric",Active,M.D.,F
+3,,,M.D.,F
+4,Dermatology,,M.D.,F
+5,Dermatology,,D.O.,M
+6,,,M.D.,F
+7,Anesthesiology,,M.D.,M
+8,Pediatrics,,M.D.,M
+9,,,M.D.,M
+10,,,M.D.,F
+11,,,M.D.,F
+12,"Allergy & Immunology,  Pediatric",Courtesy,M.D.,F
+13,,,M.D.,F
+14,,,M.D.,F
+15,Pediatrics,Active,D.O.,M
+16,Pediatrics,Active,M.D.,F
+17,,,M.D.,F
+18,,,D.O.,F
+19,,,M.D.,F
+20,Orthopedic Surgery,Affiliate,M.D.,M
+21,,AHP,M.D.,M
+22,"Orthopedics,  Pediatric",Active,M.D.,M
+23,"Ophthalmology, Adult & Pediatric",Courtesy,D.O.,M
+24,Pediatrics,Affiliate,M.D.,F
+25,Pediatrics,Affiliate,D.O.,F
+26,,,M.D.,F
+27,"Neurology, Child",Active,M.D.,M
+28,"Neurology, Child",Active,M.D.,F
+29,"Neurology, Child",Active,M.D.,M
+30,"Neurology, Child",Active,M.D.,F
+31,Pediatrics,Affiliate,M.D.,M
+32,,,D.O.,F
+33,Pediatrics,Affiliate,M.D.,F
+34,Pediatrics,Affiliate,M.D.,M
+35,,,M.D.,F
+36,Pediatrics,ActComm,M.D.,M
+37,Pediatrics,ActComm,M.D.,M
+38,Otolaryngology,Courtesy,M.D.,M
+39,Pediatrics,Resigned,M.D.,F
+40,,,D.O.,F
+41,,,M.D.,F
+42,Pediatrics,,M.D.,F
+43,Pediatrics,,D.O.,F
+44,,,D.O.,F
+45,Pediatrics,,D.O.,M
+46,,AHP,D.O.,F
+47,Dermatology,Courtesy,D.O.,F
+48,,AHP,M.D.,F
+49,,AHP,M.D.,F
+50,Internal Medicine,Affiliate,M.D.,M
+51,,,M.D.,F
+52,Otolaryngology,Courtesy,D.O.,M
+53,Otolaryngology,Courtesy,M.D.,M
+54,Otolaryngology,Courtesy,M.D.,F
+55,Otolaryngology,Courtesy,M.D.,M
+56,"Cardiology,  Pediatric",Active,M.D.,F
+57,"Cardiology,  Pediatric",Active,M.D.,M
+58,Pediatrics,Affiliate,M.D.,M
+59,Otolaryngology,Active,M.D.,M
+60,"Pathology, Anatomic",Resigned,M.D.,M
+61,Pathology,,M.D.,M
+62,Pathology,Retired,M.D.,M
+63,Pathology,,D.O.,
+64,"Pathology, Anatomic Clinical",,M.D.,F
+65,Pathology,,M.D.,M
+66,Pathology,Courtesy,D.O.,M
+67,"Pathology, Anatomic Clinical",,D.O.,M
+68,"Pathology, Anatomic",,M.D.,F
+69,"Pathology, Anatomic Clinical",Courtesy,M.D.,F
+70,"Pathology, Anatomic Clinical",Courtesy,M.D.,M
+71,"Pathology, Anatomic Clinical",Courtesy,M.D.,M
+72,"Pathology, Anatomic Clinical",Courtesy,M.D.,M
+73,"Pathology, Anatomic",,M.D.,F
+74,"Pathology, Anatomic Clinical",,M.D.,F
+75,Pathology,Resigned,M.D.,F
+76,Pathology,Resigned,M.D.,F
+77,Pathology,Active,M.D.,M
+78,"Pathology, Anatomic",Courtesy,M.D.,M
+79,"Pathology, Anatomic Clinical",Resigned,M.D.,M
+80,"Pathology, Anatomic Clinical",Courtesy,D.O.,M
+81,Pathology,Courtesy,M.D.,M
+82,Pathology,Courtesy,M.D.,M
+83,Pediatrics,Affiliate,M.D.,M
+84,,,M.D.,M
+85,Pediatrics,Affiliate,M.D.,M
+86,Pediatrics,Affiliate,M.D.,F
+87,"Ophthalmology,  Pediatric",Active,D.O.,M
+88,"Ophthalmology,  Pediatric",Active,M.D.,F
+89,Plastic Surgery,Active,M.D.,M
+90,,,M.D.,F
+91,Pediatrics,Courtesy,D.O.,M
+92,Pediatrics,Affiliate,D.O.,M
+93,Pediatrics,Affiliate,M.D.,M
+94,,,D.O.,F
+95,,,M.D.,F
+96,,,M.D.,M
+97,Family Practice,,M.D.,M
+98,,,D.O.,F
+99,Internal Medicine,,M.D.,M
+100,Pediatrics,Affiliate,M.D.,M
+101,,,M.D.,F
+102,Pediatrics,Resigned,M.D.,M
+103,Pediatrics,,M.D.,F
+104,,,M.D.,F
+105,Otolaryngology,Courtesy,M.D.,M
+106,Otolaryngology,Active,D.O.,M
+107,,,D.O.,F
+108,,,M.D.,F
+109,,,M.D.,F
+110,Anesthesiology,,M.D.,M
+111,Anesthesiology,Courtesy,D.O.,M
+112,,,D.O.,F
+113,,,M.D.,F
+114,,,M.D.,M
+115,,,M.D.,F
+116,,,M.D.,F
+117,Pediatrics,Affiliate,M.D.,M
+118,Pediatrics,Resigned,M.D.,F
+119,"Otolaryngology,  Pediatric",Active,M.D.,M
+120,,AHP,M.D.,F
+121,"Gastroenterology,  Pediatric",Active,M.D.,M
+122,,,D.O.,F
+123,,,M.D.,F
+124,Internal Medicine Pediatrics,ActComm,M.D.,M
+125,Pediatrics,Affiliate,M.D.,M
+126,Pediatrics,,D.O.,F
+127,,,M.D.,F
+128,,,M.D.,F
+129,,,M.D.,F
+130,Pediatrics,,M.D.,F
+131,,,M.D.,F
+132,,,D.O.,F
+133,,,M.D.,M
+134,Pediatrics,ActComm,D.O.,M
+135,Pediatrics,ActComm,M.D.,F
+136,,NoReapply,M.D.,F
+137,,,M.D.,M
+138,,,M.D.,F
+139,Radiation Oncology,,D.O.,M
+140,Radiation Oncology,,M.D.,M
+141,,,M.D.,F
+142,Radiation Oncology,Affiliate,M.D.,M
+143,"Rheumatology,  Pediatric & Adult",Courtesy,M.D.,M
+144,Rheumatology,Courtesy,M.D.,M
+145,,,D.O.,F
+146,Rheumatology,Courtesy,M.D.,M
+147,Pediatrics,,M.D.,M
+148,Ophthalmology,Courtesy,M.D.,F
+149,Ophthalmology,,M.D.,M
+150,Plastic Surgery,Courtesy,M.D.,M
+151,Obstetrics & Gynecology,,M.D.,M
+152,Family Practice,,M.D.,M
+153,,,M.D.,M
+154,Internal Medicine,,M.D.,M
+155,Urology,NoReapply,M.D.,M
+156,Gastroenterology,,M.D.,M
+157,Pediatrics,,M.D.,F
+158,Emergency Medicine,,M.D.,M
+159,Family Practice,,M.D.,M
+160,Pediatrics,,M.D.,F
+161,Plastic Surgery,Courtesy,M.D.,M
+162,Radiology,NoReapply,M.D.,M
+163,Radiology,Courtesy,M.D.,M
+164,Radiology,Courtesy,D.O.,M
+165,Radiology,Courtesy,M.D.,M
+166,Radiology,,D.O.,M
+167,Radiology,Courtesy,M.D.,F
+168,Radiology,,M.D.,M
+169,Radiology,Courtesy,M.D.,M
+170,Radiology,Courtesy,M.D.,F
+171,Radiology,Courtesy,M.D.,
+172,Diagnostic Radiology,Courtesy,M.D.,M
+173,Diagnostic Radiology,Courtesy,M.D.,M
+174,Radiology,Courtesy,M.D.,M
+175,Radiology,Courtesy,M.D.,M
+176,Diagnostic Radiology,Courtesy,D.O.,M
+177,Radiology,Courtesy,M.D.,M
+178,Radiology,Courtesy,D.O.,M
+179,Radiology,Courtesy,M.D.,M
+180,Radiology,Courtesy,M.D.,M
+181,Radiology,Courtesy,M.D.,M
+182,Radiology,Courtesy,M.D.,M
+183,,AHP,M.D.,M
+184,Radiology,Courtesy,D.O.,M
+185,Radiology,Courtesy,D.O.,F
+186,Radiology,Courtesy,M.D.,F
+187,Radiology,,M.D.,M
+188,Diagnostic Radiology,Courtesy,M.D.,M
+189,Radiology,Courtesy,D.O.,M
+190,Diagnostic Radiology,Courtesy,M.D.,M
+191,"Radiology,  Pediatric",Active,M.D.,M
+192,Radiology,Courtesy,M.D.,M
+193,"Radiology,  Pediatric",Active,M.D.,M
+194,Radiology,Courtesy,M.D.,M
+195,Radiology,Courtesy,M.D.,F
+196,Radiology,Courtesy,M.D.,M
+197,Radiology,,M.D.,F
+198,,AHP,M.D.,M
+199,Radiology,Courtesy,M.D.,M
+200,Radiology,Courtesy,D.O.,F
+201,Radiology,Courtesy,M.D.,M
+202,Diagnostic Radiology,Courtesy,M.D.,F
+203,Radiology,Courtesy,M.D.,M
+204,"Radiology,  Pediatric",Active,M.D.,M
+205,Radiology,Courtesy,M.D.,M
+206,Radiology,,M.D.,M
+207,,,M.D.,F
+208,,,M.D.,F
+209,Internal Medicine,,M.D.,M
+210,Pediatrics,,M.D.,M
+211,,,M.D.,F
+212,,,M.D.,F
+213,"Allergy & Immunology,  Pediatric",Active,M.D.,M
+214,"Allergy & Immunology,  Pediatric",Active,M.D.,M
+215,"Allergy & Immunology,  Pediatric",Active,M.D.,M
+216,,,D.O.,F
+217,,,M.D.,F
+218,,,M.D.,F
+219,"Allergy & Immunology,  Pediatric",Active,M.D.,M
+220,,,M.D.,
+221,"Allergy & Immunology,  Pediatric",Active,M.D.,M
+222,,,M.D.,F
+223,,,D.O.,F
+224,,,M.D.,F
+225,,,M.D.,F
+226,,NoReapply,D.O.,F
+227,,,M.D.,M
+228,"Allergy & Immunology,  Pediatric",Courtesy,M.D.,M
+229,,,M.D.,F
+230,Allergy and Immunology,Affiliate,D.O.,M
+231,,,M.D.,F
+232,"Allergy & Immunology,  Pediatric",Courtesy,D.O.,F
+233,,,M.D.,F
+234,,,M.D.,F
+235,Internal Medicine,Courtesy,M.D.,F
+236,,,M.D.,F
+237,,,M.D.,F
+238,,,M.D.,F
+239,"Allergy & Immunology,  Pediatric",Courtesy,M.D.,M
+240,,,M.D.,M
+241,,,M.D.,F
+242,,,M.D.,F
+243,,,M.D.,F
+244,Allergy and Immunology,Affiliate,M.D.,M
+245,Allergy and Immunology,Courtesy,M.D.,M
+246,,,M.D.,F
+247,Allergy & Immunology,Affiliate,M.D.,F
+248,"Allergy & Immunology,  Pediatric",Courtesy,M.D.,M
+249,,,M.D.,F
+250,Allergy and Immunology,Affiliate,M.D.,F
+251,,,M.D.,F
+252,Allergy and Immunology,Affiliate,M.D.,M
+253,Pediatrics,,D.O.,M
+254,,,M.D.,F
+255,Pediatrics,NoReapply,M.D.,M
+256,,,M.D.,F
+257,Pediatrics,,M.D.,M
+258,,,M.D.,F
+259,Pediatrics,NoReapply,D.O.,M
+260,,,M.D.,F
+261,Neurology,,M.D.,M
+262,Endocrinology,,D.O.,M
+263,"Cardiology,  Pediatric",,M.D.,
+264,,,M.D.,F
+265,Pediatrics,,M.D.,
+266,Neonatology,,M.D.,F
+267,Neonatology,,D.O.,M
+268,Pediatrics,,D.O.,
+269,Pediatrics,,D.O.,F
+270,Pediatrics,,D.O.,F
+271,Pediatrics,NoReapply,M.D.,F
+272,"Infectious Diseases,  Pediatric",,M.D.,M
+273,Pediatrics,,M.D.,F
+274,Pediatrics,,M.D.,F
+275,"Cardiology,  Pediatric",,M.D.,
+276,"Nephrology,  Pediatric",NoReapply,M.D.,
+277,,,M.D.,F
+278,Pediatrics,,M.D.,M
+279,"Hematology Oncology,  Pediatric",,M.D.,
+280,Hematology Oncology,,M.D.,
+281,Pediatrics,,M.D.,
+282,,,M.D.,M
+283,"Pulmonology,  Pediatric",,D.O.,F
+284,Pediatrics,,D.O.,
+285,"Surgery,  Pediatric",,M.D.,F
+286,"Neurology, Child",,M.D.,F
+287,"Endocrinology,  Pediatric",,M.D.,M
+288,"Endocrinology,  Pediatric",,M.D.,M
+289,"Gastroenterology,  Pediatric",,M.D.,F
+290,,,M.D.,F
+291,Pediatric Orthopedics,,M.D.,M
+292,Allergy and Immunology,,M.D.,F
+293,"Hematology-Oncology,  Pediatric",,M.D.,F
+294,Dermatology,,M.D.,M
+295,,,M.D.,F
+296,"Dermatology, Adult & Pediatric",,M.D.,M
+297,,,M.D.,M
+298,Otolaryngology,,M.D.,M
+299,,,M.D.,F
+300,Dermatology,,M.D.,M
+301,"Cardiology,  Pediatric",,M.D.,M
+302,"Cardiology,  Pediatric",,D.O.,M
+303,"Cardiology,  Pediatric",,M.D.,
+304,Pediatrics,ActComm,M.D.,F
+305,Pediatrics,ActComm,M.D.,M
+306,Pediatrics,ActComm,D.O.,F
+307,Pediatrics,ActComm,M.D.,M
+308,Family Practice,,D.O.,M
+309,,,D.O.,F
+310,Rheumatology,Courtesy,M.D.,M
+311,Family Practice,,M.D.,M
+312,Family Practice,,M.D.,M
+313,"Psychiatry, Child & Adolescent",Active,M.D.,M
+314,Psychiatry,,M.D.,F
+315,,,D.O.,F
+316,Family Practice,,M.D.,F
+317,,,M.D.,F
+318,,,M.D.,M
+319,,,M.D.,
+320,Pediatrics,,M.D.,M
+321,,,M.D.,F
+322,,,M.D.,F
+323,,,M.D.,F
+324,,,D.O.,F
+325,,,D.O.,F
+326,"Neurology, Child",,M.D.,M
+327,Pediatrics,,M.D.,F
+328,,,M.D.,F
+329,Family Practice,,D.O.,F
+330,Pediatrics,,M.D.,F
+331,,,M.D.,F
+332,Obstetrics & Gynecology,,D.O.,F
+333,Gynecology,Resigned,M.D.,M
+334,"Gynecology, Adolescent & Adult",Courtesy,D.O.,F
+335,Obstetrics & Gynecology,,D.O.,F
+336,Obstetrics & Gynecology,,M.D.,F
+337,Obstetrics & Gynecology,NoReapply,D.O.,M
+338,Gynecology,Resigned,M.D.,F
+339,Gynecology,Resigned,M.D.,M
+340,Obstetrics & Gynecology,,M.D.,F
+341,Obstetrics & Gynecology,,M.D.,F
+342,,,M.D.,F
+343,,,M.D.,F
+344,,,M.D.,F
+345,Perinatology,Affiliate,M.D.,M
+346,Perinatology,Affiliate,M.D.,M
+347,Pediatrics,,M.D.,M
+348,Internal Medicine Pediatrics,Resigned,M.D.,M
+349,Family Practice,,M.D.,M
+350,Family Practice,NoReapply,M.D.,M
+351,Family Practice,,M.D.,M
+352,Radiation Oncology,Courtesy,D.O.,M
+353,Radiation Oncology,,M.D.,M
+354,Radiology,Active,M.D.,M
+355,"Otolaryngology,  Pediatric",Active,M.D.,M
+356,"Otolaryngology,  Pediatric",Active,M.D.,M
+357,"Otolaryngology,  Pediatric",Active,D.O.,M
+358,,AHP,M.D.,M
+359,,AHP,M.D.,F
+360,,,M.D.,F
+361,Pediatrics,Affiliate,D.O.,M
+362,,,M.D.,F
+363,Pediatrics,Affiliate,M.D.,F
+364,Pediatrics,,M.D.,F
+365,Pediatrics,Affiliate,M.D.,M
+366,,,M.D.,F
+367,,,D.O.,F
+368,"Anesthesiology,  Pediatric",Active,M.D.,M
+369,"Anesthesiology,  Pediatric",Active,M.D.,M
+370,"Anesthesiology,  Pediatric",Active,M.D.,M
+371,"Anesthesiology,  Pediatric",Active,M.D.,F
+372,,AHP,M.D.,F
+373,"Anesthesiology,  Pediatric",Active,M.D.,M
+374,"Anesthesiology,  Pediatric",Active,M.D.,F
+375,"Anesthesiology,  Pediatric",Active,M.D.,M
+376,"Anesthesiology,  Pediatric",Active,M.D.,M
+377,Pediatrics,Active,M.D.,M
+378,Pediatrics,Affiliate,M.D.,F
+379,,,M.D.,F
+380,Pediatrics,Affiliate,M.D.,F
+381,,,M.D.,F
+382,,,M.D.,F
+383,Pediatrics,Affiliate,D.O.,F
+384,,,M.D.,F
+385,,Resigned,M.D.,F
+386,,,M.D.,F
+387,Pediatrics,Affiliate,M.D.,F
+388,Pediatrics,Affiliate,M.D.,F
+389,Pediatrics,Affiliate,M.D.,F
+390,Pediatrics,Affiliate,M.D.,M
+391,,,M.D.,F
+392,Pediatrics,Affiliate,M.D.,F
+393,,,M.D.,F
+394,Pediatrics,Affiliate,M.D.,M
+395,Pediatrics,Affiliate,D.O.,F
+396,Pediatrics,Affiliate,D.O.,F
+397,Pediatrics,ActComm,M.D.,M
+398,,,M.D.,F
+399,,,M.D.,F
+400,Pediatrics,Affiliate,M.D.,M
+401,Pediatrics,Affiliate,M.D.,F
+402,Pediatrics,Affiliate,M.D.,M
+403,,,M.D.,F
+404,Pediatrics,Affiliate,M.D.,M
+405,Pediatrics,Affiliate,M.D.,M
+406,Pediatrics,Affiliate,M.D.,F
+407,Pediatrics,Affiliate,M.D.,F
+408,Pediatrics,ActComm,M.D.,F
+409,Pediatrics,Affiliate,M.D.,F
+410,,,M.D.,F
+411,,,M.D.,F
+412,Pediatrics,Affiliate,M.D.,M
+413,Pediatrics,Affiliate,M.D.,F
+414,Pediatrics,Affiliate,M.D.,M
+415,Pediatrics,Affiliate,D.O.,M
+416,Pediatrics,Affiliate,M.D.,F
+417,Pediatrics,Affiliate,M.D.,F
+418,Pediatrics,,M.D.,F
+419,"Hematology Oncology,  Pediatric",Active,D.O.,M
+420,"Hematology Oncology,  Pediatric",Active,M.D.,F
+421,"Hematology Oncology,  Pediatric",Active,M.D.,M
+422,,AHP,D.O.,F
+423,"Hematology Oncology,  Pediatric",Active,M.D.,M
+424,"Hematology Oncology,  Pediatric",Active,M.D.,F
+425,Developmental-Behavioral Pediatrics,ActComm,M.D.,F
+426,,,M.D.,F
+427,"Surgery,  Pediatric",Active,D.O.,M
+428,,AHP,M.D.,M
+429,"Surgery,  Pediatric",Active,M.D.,M
+430,"Surgery,  Pediatric",Active,M.D.,M
+431,"Medical Genetics,  Pediatric",Active,M.D.,M
+432,"Endocrinology,  Pediatric",Active,M.D.,M
+433,,,M.D.,F
+434,"Cardiology,  Pediatric",Active,D.O.,M
+435,"Cardiology,  Pediatric",Active,M.D.,M
+436,"Cardiology,  Pediatric",Active,M.D.,M
+437,Physical Med. & Rehabilitation,Active,M.D.,F
+438,,AHP,D.O.,F
+439,"Endocrinology,  Pediatric",Active,M.D.,F
+440,"Endocrinology,  Pediatric",Active,M.D.,M
+441,,AHP,M.D.,F
+442,,AHP,D.O.,F
+443,"Endocrinology,  Pediatric",Active,M.D.,F
+444,"Endocrinology,  Pediatric",Active,M.D.,F
+445,"Endocrinology,  Pediatric",Active,M.D.,F
+446,"Infectious Diseases,  Pediatric",Active,M.D.,M
+447,"Infectious Diseases,  Pediatric",Active,M.D.,F
+448,,AHP,M.D.,F
+449,"Nephrology,  Pediatric",Active,M.D.,M
+450,"Pulmonology,  Pediatric",Active,M.D.,M
+451,,AHP,M.D.,F
+452,"Pulmonology,  Pediatric",Active,M.D.,F
+453,,AHP,D.O.,F
+454,,AHP,D.O.,M
+455,"Pulmonology,  Pediatric",Active,M.D.,F
+456,,AHP,D.O.,F
+457,"Sleep Medicine, Pediatric",Active,D.O.,M
+458,"Urology,  Pediatric",Active,M.D.,M
+459,Otolaryngology,Courtesy,M.D.,F
+460,Otolaryngology,Affiliate,M.D.,F
+461,Otolaryngology,Courtesy,M.D.,M
+462,Otolaryngology,Courtesy,M.D.,M
+463,,AHP,M.D.,
+464,Otolaryngology,Courtesy,M.D.,M
+465,Otolaryngology,Courtesy,M.D.,M
+466,Otolaryngology,Courtesy,M.D.,M
+467,,,M.D.,F
+468,Internal Medicine Pediatrics,Affiliate,M.D.,M
+469,Pediatrics,Resigned,M.D.,F
+470,Family Practice,,D.O.,F
+471,Internal Medicine Pediatrics,,M.D.,M
+472,,,M.D.,F
+473,,,M.D.,F
+474,Pediatrics,,M.D.,M
+475,,,D.O.,F
+476,,,M.D.,F
+477,,,M.D.,F
+478,,,M.D.,F
+479,,AHP,M.D.,F
+480,,NoReapply,M.D.,M
+481,Orthopedic Surgery,Affiliate,M.D.,M
+482,Orthopedic Surgery,Courtesy,M.D.,M
+483,Orthopedic Surgery,Courtesy,M.D.,M
+484,Orthopedic Surgery,NoReapply,D.O.,M
+485,Physical Medicine & Rehabilitation,,M.D.,M
+486,"Orthopedics,  Pediatric",Active,D.O.,M
+487,Orthopedic Surgery of the Spine,Courtesy,M.D.,M
+488,Orthopedic Surgery,,M.D.,M
+489,"Orthopedics,  Pediatric",Active,D.O.,M
+490,,AHP,M.D.,M
+491,Orthopedic Surgery,Affiliate,M.D.,M
+492,,AHP,M.D.,F
+493,Orthopedic Surgery,,M.D.,M
+494,,AHP,M.D.,M
+495,Orthopedic Surgery,Courtesy,M.D.,M
+496,Physical Medicine & Rehabilitation,,M.D.,M
+497,Orthopedic Surgery,Affiliate,M.D.,M
+498,"Sports Medicine, Pediatric",,M.D.,M
+499,"Sports Medicine, Pediatric",Courtesy,M.D.,F
+500,Orthopedic Surgery,Affiliate,D.O.,M
+501,Orthopedic Surgery,Affiliate,M.D.,M
+502,,AHP,D.O.,M
+503,Orthopedic Surgery,Courtesy,M.D.,M
+504,,,M.D.,
+505,,AHP,D.O.,F
+506,Orthopedic Surgery,Affiliate,M.D.,M
+507,Orthopedics Trauma,Affiliate,M.D.,M
+508,Orthopedic Surgery,Courtesy,M.D.,M
+509,,AHP,M.D.,F
+510,Family Practice,,M.D.,M
+511,"Orthopedics,  Pediatric",Active,D.O.,M
+512,,AHP,M.D.,
+513,Orthopedic Surgery,Affiliate,M.D.,M
+514,Orthopedic Surgery,Affiliate,M.D.,M
+515,,AHP,M.D.,F
+516,Orthopedic Surgery,Courtesy,M.D.,F
+517,,AHP,D.O.,M
+518,,AHP,M.D.,F
+519,Pediatrics,Affiliate,M.D.,F
+520,Pediatrics,Affiliate,M.D.,M
+521,Pediatrics,Affiliate,D.O.,F
+522,Pediatrics,Affiliate,M.D.,F
+523,Pediatrics,,M.D.,F
+524,,,D.O.,F
+525,Pediatrics,Affiliate,D.O.,M
+526,Pediatrics,,M.D.,M
+527,,,M.D.,F
+528,,,D.O.,M
+529,Pediatrics,ActComm,M.D.,M
+530,Pediatrics,ActComm,M.D.,F
+531,Pediatrics,Affiliate,D.O.,F
+532,Pediatrics,ActComm,D.O.,F
+533,Pediatrics,Affiliate,M.D.,F
+534,,,M.D.,F
+535,Pediatrics,Retired,M.D.,M
+536,Pediatrics,ActComm,M.D.,M
+537,Pediatrics,ActComm,M.D.,F
+538,Pediatrics,ActComm,D.O.,M
+539,Pediatrics,ActComm,M.D.,M
+540,Pediatrics,ActComm,M.D.,F
+541,Pediatrics,ActComm,M.D.,M
+542,Pediatrics,ActComm,M.D.,M
+543,Pediatrics,ActComm,M.D.,F
+544,Pediatrics,ActComm,M.D.,M
+545,Pediatrics,ActComm,D.O.,M
+546,Pediatrics,ActComm,M.D.,F
+547,Pediatrics,ActComm,M.D.,F
+548,Pediatrics,ActComm,M.D.,M
+549,Pediatrics,Active,M.D.,F
+550,Pediatrics,ActComm,M.D.,F
+551,Pediatrics,ActComm,M.D.,F
+552,Pediatrics,ActComm,M.D.,M
+553,Pediatrics,ActComm,M.D.,M
+554,Neonatology,Active,M.D.,F
+555,Neonatology,Active,M.D.,M
+556,,AHP,M.D.,F
+557,Neonatal-Perinatal Medicine,Active,M.D.,F
+558,Neonatal-Perinatal Medicine,Active,M.D.,M
+559,,AHP,M.D.,F
+560,,AHP,D.O.,F
+561,Neonatology,Active,M.D.,F
+562,Neonatology,Active,M.D.,M
+563,,AHP,M.D.,F
+564,,AHP,M.D.,F
+565,Neonatology,Active,D.O.,M
+566,,AHP,M.D.,F
+567,Neonatology,Active,M.D.,M
+568,Neonatology,Active,M.D.,M
+569,,AHP,M.D.,F
+570,Neonatology,Active,M.D.,F
+571,Neonatology,Active,M.D.,M
+572,,AHP,M.D.,M
+573,,AHP,M.D.,M
+574,,AHP,M.D.,M
+575,"Neurosurgery, Pediatric",Active,M.D.,F
+576,,AHP,M.D.,F
+577,Neurosurgery,Courtesy,M.D.,M
+578,,AHP,M.D.,F
+579,,AHP,M.D.,F
+580,,,M.D.,M
+581,Neurosurgery,Courtesy,M.D.,M
+582,,AHP,M.D.,M
+583,Neurosurgery,Courtesy,D.O.,M
+584,,AHP,M.D.,M
+585,,AHP,M.D.,F
+586,Neurosurgery,Courtesy,M.D.,M
+587,,Resigned,M.D.,F
+588,,AHP,M.D.,M
+589,Neurosurgery,Courtesy,M.D.,M
+590,,AHP,M.D.,F
+591,Neurosurgery,Courtesy,M.D.,M
+592,Neurosurgery,Courtesy,M.D.,M
+593,Neurosurgery,Courtesy,D.O.,M
+594,Otolaryngology,Courtesy,M.D.,M
+595,Otolaryngology,Courtesy,M.D.,M
+596,,,M.D.,M
+597,Otolaryngology,Courtesy,M.D.,M
+598,Otolaryngology,Courtesy,M.D.,M
+599,,,M.D.,F
+600,,,M.D.,F
+601,,,M.D.,F
+602,Pediatrics,Affiliate,M.D.,M
+603,,,M.D.,F
+604,,,D.O.,F
+605,,,D.O.,F
+606,,,M.D.,F
+607,,,M.D.,F
+608,Ophthalmology,Active,M.D.,M
+609,Ophthalmology,Resigned,D.O.,M
+610,Ophthalmology,Resigned,M.D.,M
+611,Ophthalmology,Courtsey,M.D.,M
+612,Ophthalmology,Affiliate,M.D.,M
+613,Ophthalmology,Affiliate,M.D.,M
+614,Ophthalmology,Courtesy,D.O.,M
+615,Ophthalmology,Courtesy,M.D.,M
+616,Family Practice,NoReapply,M.D.,M
+617,Family Practice,,D.O.,F
+618,Family Practice,NoReapply,M.D.,M
+619,Family Practice,Affiliate,M.D.,M
+620,,,M.D.,
+621,,,M.D.,
+622,Family Practice,,M.D.,M
+623,,,M.D.,F
+624,,,D.O.,M
+625,,resigned,M.D.,F
+626,Pediatrics,NoReappl,M.D.,M
+627,Pediatrics,NoReappl,M.D.,F
+628,,,D.O.,F
+629,Pediatrics,,M.D.,M
+630,Pediatrics,NoReapply,M.D.,M
+631,,,M.D.,F
+632,Pediatrics,Courtsey,M.D.,F
+633,,AHP,D.O.,F
+634,Pediatrics,Active,M.D.,F
+635,Internal Medicine Pediatrics,Affiliate,M.D.,M
+636,Family Practice,,M.D.,F
+637,,,D.O.,
+638,Family Practice,,M.D.,M
+639,,,M.D.,F
+640,Family Practice,Affiliate,M.D.,M
+641,,,M.D.,F
+642,,,D.O.,F
+643,,,M.D.,M
+644,,,M.D.,F
+645,Pediatrics,Affiliate,D.O.,M
+646,,,D.O.,F
+647,Pediatrics,Affiliate,M.D.,F
+648,,,M.D.,
+649,Family Practice,,M.D.,M
+650,Family Practice,,M.D.,F
+651,Internal Medicine Pediatrics,Affiliate,M.D.,M
+652,Internal Medicine Pediatrics,,M.D.,F
+653,Internal Medicine Pediatrics,,M.D.,M
+654,,,M.D.,F
+655,Family Practice,,M.D.,M
+656,Internal Medicine Pediatrics,NoReapply,D.O.,M
+657,Internal Medicine Pediatrics,NoReapply,M.D.,M
+658,Internal Medicine Pediatrics,,M.D.,M
+659,"Emergency Medicine,  Pediatric",Active,D.O.,M
+660,"Emergency Medicine,  Pediatric",Active,M.D.,F
+661,Pediatrics,Active,M.D.,F
+662,,AHP,M.D.,F
+663,Pediatrics,Active,M.D.,M
+664,Pediatrics,Active,M.D.,F
+665,,AHP,D.O.,F
+666,"Emergency Medicine,  Pediatric",Active,M.D.,M
+667,Pediatrics,Active,M.D.,F
+668,"Emergency Medicine,  Pediatric",Active,M.D.,F
+669,,AHP,D.O.,F
+670,Pediatrics,Active,D.O.,F
+671,"Emergency Medicine,  Pediatric",Active,M.D.,F
+672,"Emergency Medicine,  Pediatric",Active,D.O.,F
+673,"Emergency Medicine,  Pediatric",Active,M.D.,M
+674,,AHP,M.D.,F
+675,Pediatrics,Active,M.D.,F
+676,Pediatrics,Active,M.D.,F
+677,"Emergency Medicine,  Pediatric",Active,M.D.,F
+678,Pediatrics,Active,M.D.,F
+679,"Emergency Medicine,  Pediatric",Active,M.D.,F
+680,Pediatrics,Active,M.D.,F
+681,Pediatrics,Active,D.O.,F
+682,,AHP,M.D.,F
+683,,Resigned,M.D.,F
+684,Pediatrics,Active,M.D.,F
+685,,AHP,M.D.,F
+686,Pediatrics,Active,M.D.,F
+687,,AHP,D.O.,F
+688,Pediatrics,Active,M.D.,F
+689,,AHP,M.D.,F
+690,Pediatrics Emergency Medicine,Active,M.D.,F
+691,"Emergency Medicine,  Pediatric",Active,D.O.,F
+692,"Emergency Medicine,  Pediatric",Active,M.D.,F
+693,Pediatrics,Active,M.D.,F
+694,"Emergency Medicine,  Pediatric",Active,M.D.,F
+695,"Emergency Medicine,  Pediatric",Active,M.D.,M
+696,"Emergency Medicine,  Pediatric",Active,M.D.,F
+697,"Emergency Medicine,  Pediatric",Active,M.D.,F
+698,Pediatrics,Active,M.D.,M
+699,"Emergency Medicine,  Pediatric",Active,M.D.,F
+700,Pediatrics,Active,M.D.,M
+701,Pediatrics,Active,D.O.,F
+702,"Emergency Medicine,  Pediatric",Active,M.D.,F
+703,"Emergency Medicine,  Pediatric",Active,M.D.,M
+704,"Emergency Medicine,  Pediatric",Active,M.D.,M
+705,,AHP,M.D.,F
+706,,AHP,D.O.,F
+707,,AHP,M.D.,F
+708,Pediatrics,Active,M.D.,F
+709,"Emergency Medicine,  Pediatric",Active,M.D.,M
+710,"Emergency Medicine,  Pediatric",Active,M.D.,F
+711,Pediatrics,Active,M.D.,F
+712,Pediatrics,Active,M.D.,F
+713,Pediatrics,Active,M.D.,F
+714,Pediatrics,Active,M.D.,F
+715,,Resigned,M.D.,
+716,,AHP,M.D.,F
+717,"Emergency Medicine,  Pediatric",Active,M.D.,F
+718,,AHP,M.D.,F
+719,Internal Medicine Pediatrics,Active,M.D.,F
+720,Internal Medicine Pediatrics,Active,M.D.,M
+721,"Critical Care,  Pediatric",Active,D.O.,M
+722,,AHP,M.D.,F
+723,"Critical Care,  Pediatric",Active,D.O.,M
+724,,AHP,M.D.,
+725,"Critical Care,  Pediatric",Active,M.D.,F
+726,"Critical Care,  Pediatric",Active,M.D.,M
+727,"Critical Care,  Pediatric",Active,M.D.,F
+728,,AHP,D.O.,M
+729,Orthopedic Surgery,Courtesy,M.D.,M
+730,,,M.D.,F
+731,Orthopedic Surgery,,M.D.,M
+732,Orthopedic Surgery,,D.O.,M
+733,Orthopedic Surgery,,M.D.,M
+734,Orthopedic Surgery,,M.D.,F
+735,Orthopedic Surgery,,M.D.,M
+736,Otolaryngology,Courtesy,M.D.,M
+737,Otolaryngology,NoReapply,D.O.,M
+738,Otolaryngology,Affiliate,M.D.,M
+739,Otolaryngology,Courtesy,M.D.,M
+740,Otolaryngology,,M.D.,M
+741,Otolaryngology,,M.D.,M
+742,Otolaryngology,,M.D.,M
+743,Otolaryngology,,M.D.,M
+744,Otolaryngology,Courtesy,M.D.,M
+745,Pediatrics,ActComm,M.D.,M
+746,,,M.D.,F
+747,,,M.D.,F
+748,Family Practice,Affiliate,D.O.,M
+749,,,M.D.,M
+750,,,D.O.,F
+751,,,M.D.,M
+752,,,M.D.,F
+753,,,M.D.,F
+754,Internal Medicine Pediatrics,Courtesy,D.O.,M
+755,,,M.D.,F
+756,,,M.D.,F
+757,,,M.D.,F
+758,,,M.D.,F
+759,Family Practice,Affiliate,M.D.,M
+760,,,M.D.,M
+761,,,M.D.,F
+762,,,M.D.,F
+763,,,D.O.,F
+764,,,M.D.,F
+765,Internal Medicine,,M.D.,F
+766,Family Practice,,M.D.,F
+767,,,M.D.,M
+768,,,M.D.,
+769,Family Practice,,M.D.,F
+770,Family Practice,Affiliate,M.D.,M
+771,Pediatrics,Affiliate,M.D.,F
+772,Pediatrics,NoReapply,M.D.,F
+773,Pediatrics,Affiliate,M.D.,M
+774,,,M.D.,F
+775,,,M.D.,F
+776,Pediatrics,NoReapply,M.D.,M
+777,,,M.D.,F
+778,,,D.O.,F
+779,Orthopedic Surgery,Affiliate,M.D.,M
+780,Orthopedic Surgery,,M.D.,M
+781,Orthopedic Surgery,Resigned,M.D.,M
+782,Orthopedic Surgery of the Spine,NoReapply,M.D.,M
+783,Orthopedics Trauma,Affiliate,M.D.,M
+784,Orthopedic Surgery,,D.O.,M
+785,Orthopedic Surgery,,M.D.,
+786,,,D.O.,M
+787,Orthopedic Surgery,,D.O.,M
+788,Orthopedic Surgery,,M.D.,M
+789,,AHP,M.D.,F
+790,Orthopedic Surgery,,M.D.,M
+791,Orthopedic Surgery of the Spine,,M.D.,
+792,Orthopedic Surgery of the Spine,Courtesy,M.D.,F
+793,"Gastroenterology,  Pediatric",Active,D.O.,M
+794,"Gastroenterology,  Pediatric",Active,M.D.,M
+795,,AHP,M.D.,F
+796,,AHP,M.D.,F
+797,,AHP,M.D.,F
+798,"Gastroenterology,  Pediatric",Active,M.D.,M
+799,,,M.D.,
+800,Pediatrics,,D.O.,F
+801,,,D.O.,M
+802,Pediatrics,,D.O.,F
+803,Pediatrics,,D.O.,F
+804,,,M.D.,F
+805,Family Practice,,M.D.,M
+806,,,D.O.,
+807,Family Practice,Affiliate,D.O.,M
+808,Internal Medicine Pediatrics,,D.O.,M
+809,Family Practice,,M.D.,M
+810,Family Practice,,M.D.,M
+811,Family Practice,,M.D.,F
+812,Family Practice,,M.D.,F
+813,,,M.D.,F
+814,Pulmonary Medicine,,M.D.,M
+815,Internal Medicine,,M.D.,M
+816,Internal Medicine,,M.D.,M
+817,Pulmonary Medicine,,M.D.,F
+818,,,M.D.,F
+819,Internal Medicine,Resigned,M.D.,M
+820,Internal Medicine,Affiliate,M.D.,M
+821,Pulmonary Medicine,,M.D.,M
+822,Internal Medicine,,M.D.,F
+823,Internal Medicine,,D.O.,M
+824,Medical Genetics,Affiliate,M.D.,F
+825,Medical Genetics,Courtesy,M.D.,F
+826,,AHP,M.D.,F
+827,"Urology,  Pediatric",Active,M.D.,M
+828,"Urology,  Pediatric",Active,M.D.,M
+829,"Urology,  Pediatric",Active,M.D.,M
+830,,AHP,M.D.,F
+831,Rheumatology,,M.D.,M
+832,Pediatrics,,M.D.,F
+833,"Rheumatology, Pediatric",,M.D.,F
+834,"Rheumatology,  Pediatric",Courtesy,M.D.,M
+835,"Allergy & Immunology,  Pediatric",,M.D.,F
+836,,AHP,M.D.,F
+837,,,D.O.,F
+838,,,M.D.,F
+839,Pediatrics,,D.O.,M
+840,,,M.D.,F
+841,,ALHA,M.D.,F
