@@ -1,7 +1,7 @@
 ###
 ###
 #
-# This file should not be modified. To adjust test cases, edit the related json file(s).
+# Test runner that reads test case configuration, turns it into pytest test cases and executes them
 #
 ###
 ###
