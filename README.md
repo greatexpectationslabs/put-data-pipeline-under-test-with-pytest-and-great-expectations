@@ -20,7 +20,7 @@ Great Expectations to validate the pipeline's output against the test case's exp
 The example in this repo defines a trivial data pipeline [super_pipeline.py](super_pipeline.py) that expects a CSV file
 as its input and produces a CSV file as its output. 
  
-Instead of implementing test cases in Python, we define them in a JSON file: [expectation](expectation_configs/expectation_config_1.json):
+Instead of implementing test cases in Python, we define them in a [JSON file](test/expectation_configs/expectation_config_1.json):
 
 ```
 {
