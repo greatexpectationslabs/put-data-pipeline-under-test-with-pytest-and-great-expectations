@@ -9,9 +9,9 @@ Great Expectations provides an extensive library of expectation types. Users can
 logic (e.g., “expect values to be internal employee numbers”).
 
 You can use Great Expectations to put your data pipeline under test using clear declarative style that makes it easy to 
-express yourself, communicate with team mates and analyze errors.  
+express yourself, communicate with teammates and analyze errors.  
  
-For the purpose of integration tests your data pipeline can be treated as a "black box". You prepare an input dataset 
+For the purpose of integration tests, your data pipeline can be treated as a "black box". You prepare an input dataset 
 for each test case and use Great Expectations to state what you
 expect the pipeline's output to look like. Then you run the input through the data pipeline under test and use 
 Great Expectations to validate the pipeline's output against the test case's expectations.
